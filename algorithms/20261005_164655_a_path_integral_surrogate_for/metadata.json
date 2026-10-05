@@ -1,0 +1,12 @@
+{
+  "topic": "A Path Integral Surrogate for Multi-Step Gradient Inversion in Federated Learning",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-05T16:46:55.651557+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
