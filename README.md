@@ -2,7 +2,7 @@
 > Modern typed algorithmic modules, spatial indexes, dynamic programming, and system primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/python-advanced-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-2%20Modules-blue?style=for-the-badge&logo=python)](https://github.com/myonathanlinkedin/python-advanced-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-3%20Modules-blue?style=for-the-badge&logo=python)](https://github.com/myonathanlinkedin/python-advanced-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/python-advanced-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -15,6 +15,7 @@
 |---|---|---|:---:|:---:|:---:|:---:|
 | 1 | **Aho-Corasick Multi-Pattern String Searching Automaton** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_061601_aho-corasick_multi-pattern_str/main.py) |
 | 2 | **Skip List Probabilistic Search and Insertion Engine** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_062534_skip_list_probabilistic_search/main.py) |
+| 3 | **Merkle Tree Verification and Proof Generator** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_073713_merkle_tree_verification_and_p/main.py) |
 
 ---
 
@@ -43,4 +44,4 @@ pytest -v
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 06:25 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 07:37 UTC*</sub>
