@@ -1,12 +1,12 @@
 # Beyond Masked Sparsity: SNACK Enables Truly Sparse Neural Networks on GPU
 
-Production-ready implementation of the **Beyond Masked Sparsity: SNACK Enables Truly Sparse Neural Networks on GPU** algorithm in **Python**, adhering to idiomatic design patterns, cache-friendly data layouts, and comprehensive test assertions.
+An in-memory reference implementation of **Beyond Masked Sparsity: SNACK Enables Truly Sparse Neural Networks on GPU** in **Python**, adhering to standard library idioms, clean data structures, and assertion test suites.
 
 ### Core Highlights
 * **Language & Standard**: Modern `Python` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Concurrency & Safety**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Runtime Overhead**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Concurrency & Safety**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ---
 
@@ -14,9 +14,9 @@ Production-ready implementation of the **Beyond Masked Sparsity: SNACK Enables T
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ python3 main.py
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

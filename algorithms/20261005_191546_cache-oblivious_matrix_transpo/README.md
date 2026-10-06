@@ -1,20 +1,20 @@
 # Cache-Oblivious Matrix Transposition Algorithm (Python)
 
-> Production-ready implementation of the **Cache-Oblivious Matrix Transposition Algorithm** algorithm in **Python**, adhering to idiomatic design patterns, cache-friendly data layouts, and comprehensive test assertions.
+> An in-memory reference implementation of **Cache-Oblivious Matrix Transposition Algorithm** in **Python**, adhering to standard library idioms, clean data structures, and assertion test suites.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Cache-Oblivious Matrix Transposition Algorithm**:
 * **Data Organization**: Built upon `Lookup Tables & Bitwise Bitvectors` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Execution Guarantees**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Safety Invariants**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Execution Guarantees**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(N \log N)$`
-  * Generalized (Avg / Worst): `$O(N \log N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(N log N)`
+  * Generalized (Avg / Worst): `O(N log N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 
@@ -30,4 +30,4 @@ python3 main.py
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

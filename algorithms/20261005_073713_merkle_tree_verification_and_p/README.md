@@ -1,20 +1,20 @@
 # Merkle Tree Verification and Proof Generator (Python)
 
-> Production-ready implementation of the **Merkle Tree Verification and Proof Generator** algorithm in **Python**, adhering to idiomatic design patterns, cache-friendly data layouts, and comprehensive test assertions.
+> An in-memory reference implementation of **Merkle Tree Verification and Proof Generator** in **Python**, adhering to standard library idioms, clean data structures, and assertion test suites.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Merkle Tree Verification and Proof Generator**:
 * **Data Organization**: Built upon `Node Pointers & Self-Balancing Trees` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Execution Guarantees**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Safety Invariants**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Execution Guarantees**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(\log N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(log N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 

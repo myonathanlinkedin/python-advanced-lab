@@ -19,16 +19,16 @@
 | 4 | **Aho-Corasick Multi-Pattern String Searching Automaton** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_061601_aho-corasick_multi-pattern_str/main.py) |
 | 5 | **Skip List Probabilistic Search and Insertion Engine** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_062534_skip_list_probabilistic_search/main.py) |
 | 6 | **Merkle Tree Verification and Proof Generator** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_073713_merkle_tree_verification_and_p/main.py) |
-| 7 | **Monge matrix searching for lot sizing with piecewise-concave production costs** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_160700_monge_matrix_searching_for_lot/main.py) |
-| 8 | **A Path Integral Surrogate for Multi-Step Gradient Inversion in Federated Learning** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_164655_a_path_integral_surrogate_for/main.py) |
-| 9 | **Cache-Oblivious Matrix Transposition Algorithm** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_191546_cache-oblivious_matrix_transpo/main.py) |
-| 10 | **Implementing the Destiny Matrix in TypeScript: reducing a birth date to Major Arcana** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_223434_implementing_the_destiny_matri/main.py) |
-| 11 | **Conjugate Gradient Linear System Solver** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_000549_conjugate_gradient_linear_syst/main.py) |
-| 12 | **Union-Find: The Matrix of Disjoint Sets** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_005134_union-find__the_matrix_of_disj/main.py) |
-| 13 | **WAMpy: Efficient Synthesis of Prolog Programs in Python** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_010226_wampy__efficient_synthesis_of/main.py) |
-| 14 | **Beyond Masked Sparsity: SNACK Enables Truly Sparse Neural Networks on GPU** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_014841_beyond_masked_sparsity__snack/main.py) |
-| 15 | **R-Tree Spatial Index for Multidimensional Bounding Boxes** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_071956_r-tree_spatial_index_for_multi/main.py) |
-| 16 | **R-Tree Spatial Index for Multidimensional Bounding Boxes** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_093205_r-tree_spatial_index_for_multi/main.py) |
+| 7 | **Monge matrix searching for lot sizing with piecewise-concave production costs** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_160700_monge_matrix_searching_for_lot/core.py) |
+| 8 | **A Path Integral Surrogate for Multi-Step Gradient Inversion in Federated Learning** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_164655_a_path_integral_surrogate_for/core.py) |
+| 9 | **Cache-Oblivious Matrix Transposition Algorithm** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_191546_cache-oblivious_matrix_transpo/core.py) |
+| 10 | **Implementing the Destiny Matrix in TypeScript: reducing a birth date to Major Arcana** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_223434_implementing_the_destiny_matri/core.py) |
+| 11 | **Conjugate Gradient Linear System Solver** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_000549_conjugate_gradient_linear_syst/custom_types.py) |
+| 12 | **Union-Find: The Matrix of Disjoint Sets** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_005134_union-find__the_matrix_of_disj/core.py) |
+| 13 | **WAMpy: Efficient Synthesis of Prolog Programs in Python** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_010226_wampy__efficient_synthesis_of/custom_types.py) |
+| 14 | **Beyond Masked Sparsity: SNACK Enables Truly Sparse Neural Networks on GPU** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_014841_beyond_masked_sparsity__snack/core.py) |
+| 15 | **R-Tree Spatial Index for Multidimensional Bounding Boxes** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_071956_r-tree_spatial_index_for_multi/core.py) |
+| 16 | **R-Tree Spatial Index for Multidimensional Bounding Boxes** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_093205_r-tree_spatial_index_for_multi/core.py) |
 
 ---
 
@@ -57,4 +57,4 @@ pytest -v
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 09:32 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 10:44 UTC*</sub>

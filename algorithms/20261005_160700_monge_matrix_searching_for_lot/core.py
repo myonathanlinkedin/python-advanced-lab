@@ -40,7 +40,7 @@ class PiecewiseConcaveCost:
             raise ValueError("Quantity cannot be negative.")
         idx = bisect_left(self._bounds, quantity)
         if idx == len(self._segments):
-            # Quantity exceeds all explicit bounds – use the last segment.
+            # Quantity exceeds all explicit bounds - use the last segment.
             seg = self._segments[-1]
         else:
             seg = self._segments[idx]

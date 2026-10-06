@@ -16,7 +16,7 @@ from typing import List, Sequence, TypeVar
 
 T = TypeVar("T")
 
-# Tunable base case size – experimentally a small constant works well.
+# Tunable base case size - experimentally a small constant works well.
 _BASE_CASE_THRESHOLD = 64  # number of elements (rows * cols) per leaf
 
 
