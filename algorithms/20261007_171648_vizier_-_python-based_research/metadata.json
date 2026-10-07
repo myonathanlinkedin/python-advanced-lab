@@ -1,0 +1,12 @@
+{
+  "topic": "Vizier - Python-based research interface for blackbox and hyperparameter optimization",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-07T17:16:48.757298+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
