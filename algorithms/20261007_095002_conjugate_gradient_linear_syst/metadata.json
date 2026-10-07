@@ -1,0 +1,11 @@
+{
+  "topic": "Conjugate Gradient Linear System Solver",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-07T09:50:02.968535+00:00",
+  "source_file": "core.py",
+  "files": [
+    "core.py"
+  ]
+}
