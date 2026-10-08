@@ -1,0 +1,12 @@
+{
+  "topic": "Rectangular matrix multiplication from shared-leg entropy",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-08T05:02:08.378271+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
