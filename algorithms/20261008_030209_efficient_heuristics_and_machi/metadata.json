@@ -1,0 +1,12 @@
+{
+  "topic": "Efficient Heuristics and Machine Learning Approach for Fault Characterization in",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-08T03:02:09.158113+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
