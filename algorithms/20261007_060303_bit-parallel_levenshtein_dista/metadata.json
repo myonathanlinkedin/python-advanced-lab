@@ -1,0 +1,12 @@
+{
+  "topic": "Bit-Parallel Levenshtein Distance Matrix Engine",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-07T06:03:03.727169+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
