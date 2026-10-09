@@ -1,0 +1,12 @@
+{
+  "topic": "K-D Tree Spatial Partitioning and Nearest Neighbor Search",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-09T20:02:47.159909+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
