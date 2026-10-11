@@ -2,7 +2,7 @@
 > Modern typed algorithmic modules, spatial indexes, dynamic programming, and system primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/python-advanced-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-35%20Modules-blue?style=for-the-badge&logo=python)](https://github.com/myonathanlinkedin/python-advanced-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-36%20Modules-blue?style=for-the-badge&logo=python)](https://github.com/myonathanlinkedin/python-advanced-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/python-advanced-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -48,6 +48,7 @@
 | 33 | **R-Tree Spatial Index for Multidimensional Bounding Boxes** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_080200_r-tree_spatial_index_for_multi/main.py) |
 | 34 | **Conjugate Gradient Linear System Solver** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_210614_conjugate_gradient_linear_syst/main.py) |
 | 35 | **R-Tree Spatial Index for Multidimensional Bounding Boxes** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_215341_r-tree_spatial_index_for_multi/main.py) |
+| 36 | **The Matrix of Tree Traversals: Recursive vs Iterative** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_070522_the_matrix_of_tree_traversals/main.py) |
 
 ---
 
@@ -76,4 +77,4 @@ pytest -v
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-10 21:53 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 07:05 UTC*</sub>

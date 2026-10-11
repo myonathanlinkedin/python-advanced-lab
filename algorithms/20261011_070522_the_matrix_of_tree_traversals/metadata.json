@@ -1,0 +1,12 @@
+{
+  "topic": "The Matrix of Tree Traversals: Recursive vs Iterative",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-11T07:05:22.317417+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
