@@ -1,0 +1,12 @@
+{
+  "topic": "R-Tree Spatial Index for Multidimensional Bounding Boxes",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-10T21:53:41.332505+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}

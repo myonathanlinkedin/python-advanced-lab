@@ -1,0 +1,11 @@
+{
+  "topic": "Cache-Oblivious Matrix Transposition Algorithm",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-07T13:50:01.524638+00:00",
+  "source_file": "core.py",
+  "files": [
+    "core.py"
+  ]
+}

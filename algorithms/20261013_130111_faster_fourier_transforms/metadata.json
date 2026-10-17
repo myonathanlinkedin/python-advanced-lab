@@ -1,0 +1,13 @@
+{
+  "topic": "Faster Fourier Transforms",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-13T13:01:11.328744+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
