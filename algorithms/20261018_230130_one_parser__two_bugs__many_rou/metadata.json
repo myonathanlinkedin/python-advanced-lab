@@ -1,0 +1,12 @@
+{
+  "topic": "One parser, two bugs, many routers: Exploiting Broadcom Aether-Flux across eCos, Linux",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-18T23:01:30.404379+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
