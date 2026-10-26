@@ -1,0 +1,13 @@
+{
+  "topic": "Least Recently Used (LRU) Cache with Doubly Linked List",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-26T13:01:45.529360+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
