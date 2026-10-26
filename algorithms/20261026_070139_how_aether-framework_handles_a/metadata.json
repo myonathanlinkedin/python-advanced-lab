@@ -1,0 +1,12 @@
+{
+  "topic": "How Aether-Framework Handles a fork When the Parent Has Gigabytes of Memory",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-26T07:01:39.215045+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
