@@ -1,0 +1,12 @@
+{
+  "topic": "writing about pratt parsing so I remember it",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-26T17:01:47.205167+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
