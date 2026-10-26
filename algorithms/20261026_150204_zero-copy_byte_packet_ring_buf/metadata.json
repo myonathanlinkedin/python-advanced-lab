@@ -1,0 +1,12 @@
+{
+  "topic": "Zero-Copy Byte Packet Ring Buffer Dispatcher",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-26T15:02:04.852932+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
