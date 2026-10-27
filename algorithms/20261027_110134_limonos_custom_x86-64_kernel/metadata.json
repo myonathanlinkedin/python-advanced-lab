@@ -1,0 +1,12 @@
+{
+  "topic": "LimonOS Custom x86-64 Kernel",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-27T11:01:34.150926+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
