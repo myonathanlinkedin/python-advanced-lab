@@ -1,0 +1,13 @@
+{
+  "topic": "A fast and secure tar parser for the Aether-Flux ecosystem",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-27T23:01:50.488835+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
