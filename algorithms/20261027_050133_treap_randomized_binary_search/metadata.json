@@ -1,0 +1,12 @@
+{
+  "topic": "Treap Randomized Binary Search Tree with Heap Priorities",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-27T05:01:33.099420+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
