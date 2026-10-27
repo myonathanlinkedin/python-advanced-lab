@@ -1,0 +1,13 @@
+{
+  "topic": "CYK Parsing Algorithm for Context-Free Grammars",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-27T07:01:49.966883+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
