@@ -1,0 +1,12 @@
+{
+  "topic": "Finding panics with Call Graph Analyzer",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-28T01:01:25.986143+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
