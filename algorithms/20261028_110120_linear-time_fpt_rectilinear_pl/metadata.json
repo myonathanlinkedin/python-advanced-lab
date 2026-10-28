@@ -1,0 +1,12 @@
+{
+  "topic": "Linear-Time FPT Rectilinear Planarity Testing of Series-Parallel Graphs",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-28T11:01:20.894678+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
