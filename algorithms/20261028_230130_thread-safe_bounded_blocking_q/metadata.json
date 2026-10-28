@@ -1,0 +1,13 @@
+{
+  "topic": "Thread-Safe Bounded Blocking Queue with Condition Variables",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-28T23:01:30.354818+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
