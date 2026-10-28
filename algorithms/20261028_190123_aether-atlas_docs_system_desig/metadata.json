@@ -1,0 +1,12 @@
+{
+  "topic": "Aether-Atlas Docs System Design: Real-Time Editing, OT, CRDT & Scale",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-28T19:01:23.661963+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
