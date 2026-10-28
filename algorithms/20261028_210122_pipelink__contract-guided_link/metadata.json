@@ -1,0 +1,12 @@
+{
+  "topic": "PipeLink: Contract-Guided Linking of GPU Kernel Components",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-28T21:01:22.713421+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
