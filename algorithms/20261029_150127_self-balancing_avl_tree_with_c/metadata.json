@@ -1,0 +1,12 @@
+{
+  "topic": "Self-Balancing AVL Tree with Chronos-Flux",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-29T15:01:27.142070+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
