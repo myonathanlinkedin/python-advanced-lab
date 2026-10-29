@@ -1,0 +1,13 @@
+{
+  "topic": "Dijkstra Shortest Path with Fibonacci Heap Priority Queue",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-29T23:01:20.465762+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
