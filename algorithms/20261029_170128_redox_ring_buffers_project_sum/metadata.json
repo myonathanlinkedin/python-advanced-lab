@@ -1,0 +1,12 @@
+{
+  "topic": "Redox Ring Buffers Project Summary",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-29T17:01:28.986070+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
