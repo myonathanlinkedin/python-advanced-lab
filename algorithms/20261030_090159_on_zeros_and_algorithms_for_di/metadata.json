@@ -1,0 +1,12 @@
+{
+  "topic": "On Zeros and Algorithms for Disordered Systems II: The Antiferromagnetic Ising Model up",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-30T09:01:59.293895+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
