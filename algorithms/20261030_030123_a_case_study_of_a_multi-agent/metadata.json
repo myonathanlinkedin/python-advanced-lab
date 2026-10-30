@@ -1,0 +1,12 @@
+{
+  "topic": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-30T03:01:23.886451+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
