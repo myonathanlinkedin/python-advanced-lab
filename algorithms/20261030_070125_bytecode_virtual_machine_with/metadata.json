@@ -1,0 +1,12 @@
+{
+  "topic": "Bytecode Virtual Machine with Stack Evaluation Engine",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-30T07:01:25.505842+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
