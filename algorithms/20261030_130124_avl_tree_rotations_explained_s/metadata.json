@@ -1,0 +1,12 @@
+{
+  "topic": "AVL Tree Rotations Explained Step by Step (With All 4 Cases)",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-30T13:01:24.203089+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
