@@ -1,0 +1,13 @@
+{
+  "topic": "Half-Optimal Induced Matchings in Random Graphs: Online and Low-Degree Algorithms",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-31T19:01:28.613707+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
