@@ -1,0 +1,12 @@
+{
+  "topic": "Shortest Job First (SJF): The CPU Scheduling Algorithm Every Software Engineer Should",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-10-31T11:01:19.144952+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
