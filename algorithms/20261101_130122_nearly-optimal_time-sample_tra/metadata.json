@@ -1,0 +1,12 @@
+{
+  "topic": "Nearly-Optimal Time-Sample Trade-off in Consensus Dynamics",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-01T13:01:22.497947+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
