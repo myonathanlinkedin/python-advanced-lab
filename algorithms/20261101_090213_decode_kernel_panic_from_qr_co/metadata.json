@@ -1,0 +1,13 @@
+{
+  "topic": "Decode kernel panic from QR Code photo",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-01T09:02:13.384602+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
