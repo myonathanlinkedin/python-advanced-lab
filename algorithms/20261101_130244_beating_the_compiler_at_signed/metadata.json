@@ -1,0 +1,12 @@
+{
+  "topic": "Beating the compiler at signed 32-bit division",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-01T13:02:44.714663+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
