@@ -1,0 +1,13 @@
+{
+  "topic": "Raft Consensus Protocol Leader Election State Engine",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-01T19:02:02.336638+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
