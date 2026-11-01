@@ -1,0 +1,13 @@
+{
+  "topic": "Hopalong Map \u2013 fast, parallel, low-memory \u2013 two-pass checkpointed orbit decomposition",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-01T21:01:19.674385+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
