@@ -1,0 +1,13 @@
+{
+  "topic": "A Better Lower Bound for Sublinear Metric Steiner Tree",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-02T09:01:29.674760+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
