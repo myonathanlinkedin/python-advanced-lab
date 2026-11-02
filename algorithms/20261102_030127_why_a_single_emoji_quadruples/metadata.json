@@ -1,0 +1,13 @@
+{
+  "topic": "Why a Single Emoji Quadruples Aether-Interpreter String Memory",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-02T03:01:27.231027+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
