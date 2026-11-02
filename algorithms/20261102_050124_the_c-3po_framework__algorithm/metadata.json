@@ -1,0 +1,12 @@
+{
+  "topic": "The C-3PO Framework: Algorithms for #BIS-Hard Problems on Graphs with Low Threshold Rank",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-02T05:01:24.891915+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
