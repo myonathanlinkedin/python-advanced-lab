@@ -2,7 +2,7 @@
 > Modern typed algorithmic modules, spatial indexes, dynamic programming, and system primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/python-advanced-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-166%20Production%20Builds-blue?style=for-the-badge&logo=python)](https://github.com/myonathanlinkedin/python-advanced-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-167%20Production%20Builds-blue?style=for-the-badge&logo=python)](https://github.com/myonathanlinkedin/python-advanced-lab)
 [![Unique Systems](https://img.shields.io/badge/Unique_Architectures-89%20Systems-8957e5?style=for-the-badge)](https://github.com/myonathanlinkedin/python-advanced-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/python-advanced-lab)
@@ -21,7 +21,7 @@
 ### 📊 Repository Telemetry & Module Counting Methodology
 
 > **How Modules and Builds are Calculated in this Repository:**
-> - **📦 166 Production Builds:** Measures the exact number of self-contained, compilable packages inside the `algorithms/` directory. Each folder constitutes an independent build artifact complete with native source code, comprehensive unit tests, benchmarks, and metadata.
+> - **📦 167 Production Builds:** Measures the exact number of self-contained, compilable packages inside the `algorithms/` directory. Each folder constitutes an independent build artifact complete with native source code, comprehensive unit tests, benchmarks, and metadata.
 > - **🔬 89 Unique Architectures:** Measures distinct Computer Science algorithms and data structures implemented in Python. When algorithms undergo iterative optimization cycles, each cycle is preserved as an independent production build while tracing back to its core architecture.
 > - **🌐 Global Polyglot Ecosystem:** This repository is one of 14 specialized language spokes orchestrated by [`myonathanlinkedin/codes_container`](https://github.com/myonathanlinkedin/codes_container) (totaling **603 physical builds** across 14 languages). Cross-language implementations are deduplicated and cataloged in the [Master Polyglot Index](https://github.com/myonathanlinkedin/polyglot-systems-index) (**369 verified implementations** spanning **219+ foundational paradigms**).
 
@@ -93,7 +93,7 @@
 | 60 | **Cache-Oblivious Matrix Transposition Algorithm** <br/><sub>🔄 Iterative Optimization Cycle 7 of 8</sub> | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261026_190130_cache-oblivious_matrix_transpo/custom_types.py) |
 | 61 | **Logarithmic Separation between LZ77 and LZ-End and Grammar Compression** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261026_210138_logarithmic_separation_between/core.py) |
 | 62 | **Zero-Copy Byte Packet Ring Buffer Dispatcher** <br/><sub>🔄 Iterative Optimization Cycle 2 of 2</sub> | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261026_230132_zero-copy_byte_packet_ring_buf/core.py) |
-| 63 | **Kruskal Minimum Spanning Tree with Disjoint-Set Union** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261027_010133_kruskal_minimum_spanning_tree/custom_types.py) |
+| 63 | **Kruskal Minimum Spanning Tree with Disjoint-Set Union** <br/><sub>🔄 Iterative Optimization Cycle 1 of 2</sub> | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261027_010133_kruskal_minimum_spanning_tree/custom_types.py) |
 | 64 | **Topological Sort with Cycle Detection in Directed Graphs** <br/><sub>🔄 Iterative Optimization Cycle 1 of 2</sub> | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261027_030128_topological_sort_with_cycle_de/core.py) |
 | 65 | **Treap Randomized Binary Search Tree with Heap Priorities** <br/><sub>🔄 Iterative Optimization Cycle 1 of 2</sub> | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261027_050133_treap_randomized_binary_search/core.py) |
 | 66 | **CYK Parsing Algorithm for Context-Free Grammars** <br/><sub>🔄 Iterative Optimization Cycle 1 of 4</sub> | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261027_070149_cyk_parsing_algorithm_for_cont/custom_types.py) |
@@ -197,6 +197,7 @@
 | 164 | **Singular Value Decomposition (SVD) for Low-Rank Approximation** | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261102_170223_singular_value_decomposition/custom_types.py) |
 | 165 | **Count-Min Sketch Heavy Hitters Frequency Estimator** <br/><sub>🔄 Iterative Optimization Cycle 2 of 2</sub> | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261102_190211_count-min_sketch_heavy_hitters/core.py) |
 | 166 | **Actor Model Concurrency Engine with Mailbox Processing** <br/><sub>🔄 Iterative Optimization Cycle 3 of 3</sub> | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261103_030247_actor_model_concurrency_engine/core.py) |
+| 167 | **Kruskal Minimum Spanning Tree with Disjoint-Set Union** <br/><sub>🔄 Iterative Optimization Cycle 2 of 2</sub> | python | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261103_050210_kruskal_minimum_spanning_tree/custom_types.py) |
 
 ---
 
