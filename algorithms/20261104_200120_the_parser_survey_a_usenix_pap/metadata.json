@@ -1,0 +1,13 @@
+{
+  "topic": "The parser survey a USENIX paper left as future work",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-04T20:01:20.792148+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
