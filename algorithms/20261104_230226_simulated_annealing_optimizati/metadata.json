@@ -1,0 +1,12 @@
+{
+  "topic": "Simulated Annealing Optimization for Combinatorial Graphs",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-04T23:02:26.809683+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
