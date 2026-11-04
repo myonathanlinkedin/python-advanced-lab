@@ -1,0 +1,12 @@
+{
+  "topic": "Pratt Top-Down Operator Precedence Expression Parser",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-04T19:02:20.112183+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
