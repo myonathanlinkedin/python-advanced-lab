@@ -1,0 +1,12 @@
+{
+  "topic": "5 LeetCode Problems: Word Search, Implement Trie (Prefix Tree), Palindromic Substrings",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-05T01:02:29.679221+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
