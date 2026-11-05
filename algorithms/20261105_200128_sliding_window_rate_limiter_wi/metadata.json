@@ -1,0 +1,13 @@
+{
+  "topic": "Sliding Window Rate Limiter with Distributed Token Bucket",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-05T20:01:28.406479+00:00",
+  "source_file": "main.py",
+  "files": [
+    "custom_types.py",
+    "engine.py",
+    "main.py"
+  ]
+}
