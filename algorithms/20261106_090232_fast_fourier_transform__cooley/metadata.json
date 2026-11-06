@@ -1,0 +1,11 @@
+{
+  "topic": "Fast Fourier Transform (Cooley-Tukey Radix-2) Signal Processing",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-06T09:02:32.803288+00:00",
+  "source_file": "custom_types.py",
+  "files": [
+    "custom_types.py"
+  ]
+}
