@@ -1,0 +1,12 @@
+{
+  "topic": "Rayshader 1.0: Exit the Matrix",
+  "language": "Python",
+  "extension": ".py",
+  "category": "python",
+  "timestamp_utc": "2026-11-28T08:01:20.032166+00:00",
+  "source_file": "main.py",
+  "files": [
+    "core.py",
+    "main.py"
+  ]
+}
